@@ -1,8 +1,8 @@
 # Gestão de Crédito, Risco e Liquidez - Cooperativa de Crédito
 
-Painel analítico desenvolvido para acompanhamento de carteira de crédito, liquidez e risco regulatório (BACEN) da rede de agências da região de Santa Cruz do Sul e Vale do Rio Pardo.
+> **Nota do Projeto:** Estudo de caso prático desenvolvido como demonstração técnica de engenharia de dados e modelagem dimensional aplicada ao setor financeiro cooperativo, simulando os desafios de controladoria, risco e liquidez de uma Sede Regional no Vale do Rio Pardo. Os dados são 100% sintéticos, em conformidade com as diretrizes de sigilo bancário e LGPD.
 
-O projeto foi estruturado com base em dados sintéticos modelados em Python para simular a operação real de uma cooperativa de crédito regional, respeitando diretrizes de sigilo bancário e LGPD.
+Painel analítico desenvolvido para acompanhamento de carteira de crédito, liquidez e risco regulatório (BACEN) da rede de agências da região de Santa Cruz do Sul e Vale do Rio Pardo.
 
 ---
 
