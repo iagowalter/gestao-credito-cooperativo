@@ -1,0 +1,17 @@
+# Arquivos de Dados e Power BI (Protegidos por Sigilo e LGPD)
+*.pbix
+*.pbit
+*.xlsx
+*.xls
+*.csv
+
+# Logs e Arquivos Temporarios
+logs/
+*.log
+__pycache__/
+*.pyc
+
+# IDE e Sistema
+.vscode/
+.idea/
+*.tmp
